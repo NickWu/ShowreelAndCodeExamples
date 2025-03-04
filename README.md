@@ -1,4 +1,4 @@
-# ShowreelAndCodeExamples
+# Showreel and Code Examples
 This Repo lists some of my code contributions, code examples and showreel. 
 
 ## Open Source Contributions
