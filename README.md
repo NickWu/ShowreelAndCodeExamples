@@ -2,7 +2,7 @@
 This Repo lists some of my code contributions, code examples and showreel. 
 
 ## Open Source Contributions
-The following link lists my contributions to [maya-usd](https://github.com/Autodesk/maya-usd) and [OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD): 
+The following link lists my contributions to **maya-usd** and **OpenUSD**: 
 
 https://github.com/NickWu/maya-usd-contributions
 
